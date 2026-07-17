@@ -21,7 +21,7 @@ Networking & security researcher and systems architect. What's on GitHub is the 
 ### 🚧 What I'm building *(private / in development)*
 
 - **CyberKnox** — a secure, sovereign datacenter and security platform. Built to keep sensitive workloads resilient, recoverable, and fully under their owner's control — for organizations that can't simply hand their data to someone else's cloud.
-- **Market Sniper** — a market-intelligence SaaS for virtual economies. Turns live in-game market data into clean, real-time signal so players can see what's moving and when, built out game by game across the big online economies.
+- **[Market Sniper](https://marketsniper.app)** — a market-intelligence SaaS for virtual economies. Turns live in-game market data into clean, real-time signal so players can see what's moving and when, built out game by game across the big online economies.
 
 > These live in private repos — details kept deliberately light.
 
