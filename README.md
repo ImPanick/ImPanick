@@ -14,7 +14,9 @@ Networking & security researcher and systems architect. What's on GitHub is the 
 - 🔐 Applied cryptography — encryption algorithms & **post-quantum**
 - ⚛️ Quantum computing *(currently learning)*
 - 🏠 Self-hosted, sovereign infrastructure — own the stack, own the data
-- 🎮 Game-server orchestration & modding tooling
+- 🎮 Cloud systems orchestration
+- 🤖 AI Orchestration/LLM Training and Harness Development
+- ✨ AI Orchestration/Harness: MCP Development and Agentic Tooling w/Skills
 
 ---
 
