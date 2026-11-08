@@ -33,6 +33,7 @@ Networking & security researcher and systems architect. What's on GitHub is the 
 
 | Repo | What it is | |
 |------|-----------|---|
+| [**Pantheon**](https://github.com/ImPanick/Pantheon) 🆕 | **Pantheon** A fork of Odysseus (PewDiePie) - An absolute Ascension... - AGPL-3 | `Python` |
 | [**IUUT**](https://github.com/ImPanick/IUUT) 🆕 | **Icarus Ultimate Utility Tool** — a free, offline Windows app that repairs corrupted _Icarus_ save files and lets players safely edit their own local progression. Backup → atomic write → validate on every change, and zero telemetry. · **v1.0.0** · MIT | `C#` |
 | [**ModMan**](https://github.com/ImPanick/ModMan) | Mod manager for SN2 (expanding to more games) | — |
 | [**idke-wizard**](https://github.com/ImPanick/idke-wizard) | Single-file browser idle dungeon smasher | `HTML` |
